@@ -30,6 +30,13 @@ brew install neovim
 brew install ripgrep
 ```
 
+**!! Very important note:**
+Make sure you have x-code command line tools installed. If not then follow the below command.
+
+```
+xcode-select --install
+```
+
 Fork the repo if you want to.
 
 Move to `.config` directory and clone this repo and you are done.
